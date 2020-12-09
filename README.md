@@ -1,4 +1,4 @@
-# Composite-Images
+# Composite and 2D Images
 Demonstration
 
 ---
