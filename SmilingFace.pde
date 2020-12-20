@@ -85,12 +85,12 @@ void draw() {
   ellipse(leftEyeX, leftEyeY, lEyeDiameter, lEyeDiameter);
   ellipse(rightEyeX, rightEyeY, rEyeDiameter, rEyeDiameter);
   fill(reset);
-  
+  //
   fill(black);
   ellipse(pupilLeftEyeX, pupilLeftEyeY, pupilLEyeDiameter, pupilLEyeDiameter);
   ellipse(pupilRightEyeX, pupilRightEyeY, pupilREyeDiameter, pupilREyeDiameter);
   fill(reset);
-  
+  //
   fill(white);
   ellipse(reflectionREyeX, reflectionREyeY, reflectionREyeDiameter, reflectionREyeDiameter);
   ellipse(reflectionLEyeX, reflectionLEyeY, reflectionLEyeDiameter, reflectionLEyeDiameter);
